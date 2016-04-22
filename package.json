@@ -1,10 +1,10 @@
 {
-  "name": "passport-yunmart",
+  "name": "passport-qiye163",
   "version": "1.0.0",
-  "description": "yunmart authentication strategy for Passport.",
+  "description": "qiye163 authentication strategy for Passport.",
   "keywords": [
     "passport",
-    "yunmart",
+    "qiye163",
     "auth",
     "authentication"
   ],
@@ -14,10 +14,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/lee715/passport-yunmart.git"
+    "url": "git+ssh://git@github.com/lee715/passport-qiye163.git"
   },
   "bugs": {
-    "url": "http://github.com/lee715/passport-yunmart/issues"
+    "url": "http://github.com/lee715/passport-qiye163/issues"
   },
   "license": "MIT",
   "licenses": [
@@ -34,5 +34,5 @@
   "engines": {
     "node": ">= 0.4.0"
   },
-  "homepage": "https://github.com/lee715/passport-yunmart#readme"
+  "homepage": "https://github.com/lee715/passport-qiye163#readme"
 }
