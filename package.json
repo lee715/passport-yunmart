@@ -1,6 +1,6 @@
 {
   "name": "passport-qiye163",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "qiye163 authentication strategy for Passport.",
   "keywords": [
     "passport",
